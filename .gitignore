@@ -1,0 +1,36 @@
+# Node modules
+decentralized-voting-system/node_modules/
+
+# Truffle build artifacts
+decentralized-voting-system/build/
+
+# Environment variables (private keys, RPC URLs)
+decentralized-voting-system/.env
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Editor folders
+.vscode/
+.idea/
+
+# React build output (if later added)
+decentralized-voting-system/dist/
+decentralized-voting-system/.cache/
+
+# Backup files
+*.bak
+*.orig
+
+
+decentralized-voting-system/Database_API/.env
+decentralized-voting-system/Database_API/__pycache__/
